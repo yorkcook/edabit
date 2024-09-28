@@ -1,3 +1,3 @@
 # edabit
 
-problems from edabit
+problems from edabit in js and python
