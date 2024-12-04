@@ -1,6 +1,6 @@
 # edabit
 
-problems from edabit 
+problems from edabit . com
 
 in js and python
 
