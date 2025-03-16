@@ -2,6 +2,6 @@
 
 edabit.com
 
-practice problems in js and python
+practice problems in JavaScript and python
 
 levels 
