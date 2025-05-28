@@ -1,3 +1,3 @@
 # edabit
 
-menstal exercise
+mental exercise
