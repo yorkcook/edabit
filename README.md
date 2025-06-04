@@ -4,4 +4,4 @@ mental exercise
 
 js and python
 
-started:
+started: 6/5
