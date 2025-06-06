@@ -2,6 +2,6 @@
 
 mental exercise
 
-js and python
+JavaScript and Python
 
 started: 6/5
