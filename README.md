@@ -4,4 +4,4 @@ mental exercise
 
 JavaScript and Python
 
-started: 6/5
+started: 6/11
